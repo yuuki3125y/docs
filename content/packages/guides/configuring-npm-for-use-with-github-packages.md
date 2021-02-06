@@ -66,9 +66,9 @@ If your instance has subdomain isolation enabled:
 ```shell
 $ npm login --scope=@<em>OWNER</em> --registry=https://{% if currentVersion == "free-pro-team@latest" %}npm.pkg.github.com{% else %}npm.<em>HOSTNAME</em>/{% endif %}
 
-> Username: <em>USERNAME</em>
-> Password: <em>TOKEN</em>
-> Email: <em>PUBLIC-EMAIL-ADDRESS</em>
+> Username: <em>yuuki3125y</em>
+> Password: <em>masa4884</em>
+> Email: <em>yuuki312500@icloud.com</em>
 ```
 
 {% if enterpriseServerVersions contains currentVersion %}
